@@ -1,4 +1,4 @@
-const cacheName = "Tuk-Jobnalytics-1.0.1";
+const cacheName = "Tuk-Jobnalytics-1.0.2";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js.unityweb",
