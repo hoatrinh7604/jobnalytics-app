@@ -93,7 +93,7 @@
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Tuk",
     productName: "Jobnalytics",
-    productVersion: "1.0",
+    productVersion: "1.0.1",
     showBanner: unityShowBanner,
 	cacheControl: function (url) {
   //return "immutable";
@@ -110,6 +110,7 @@
 
   render();
 
+  canvas.style.background = "url('" + buildUrl + "/WebGL.jpg') center / cover";
   loadingBar.style.display = "block";
 
   var script = document.createElement("script");
