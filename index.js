@@ -93,7 +93,7 @@
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Tuk",
     productName: "Jobnalytics",
-    productVersion: "1.0.2",
+    productVersion: "1.0.3",
     showBanner: unityShowBanner,
 	cacheControl: function (url) {
   //return "immutable";
